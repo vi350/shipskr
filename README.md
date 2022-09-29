@@ -1,17 +1,19 @@
 ## Курсовая по ЯВУ, 2 семестр
-##### Here you can enter your name
+
+
+##### Здесь вы можете ввести свое имя
 ![Intro screen](screenshots/intro.png)
-##### Then you get into menu
+##### И после этого попасть в меню
 ![Menu](screenshots/menu.png)
-##### Let's look through tutorial by clicking T on the screen
+##### Давайте заглянем в туториал
 ![Tutorial](screenshots/tutorial.png)
-##### Esc, then R, to see records table
+##### Esc, потом R, чтобы увидеть таблицу рекордов
 ![Records before](screenshots/records_before.png)
-##### Esc, then space to start the game
+##### Esc, потом пробел, чтобы начать игру
 ![Game](screenshots/game.png)
-##### After spending some bullets, we gain some points
+##### В процессе игры можно набирать очки, сбивая корабли
 ![Game2](screenshots/game2.png)
-##### Game ended
+##### Игра закончена
 ![Gameover](screenshots/gameover.png)
-##### Let's check our table
+##### И напоследок проверим нашу таблицу рекордов
 ![Records after](screenshots/records_after_two_games.png)
